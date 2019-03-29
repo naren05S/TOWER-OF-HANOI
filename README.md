@@ -1,1 +1,4 @@
 # TOWER-OF-HANOI
+Tower of Hanoi game is a puzzle invented by French mathematician Édouard Lucas in 1883.
+	There is a story about an ancient temple in India (Some say it's in Vietnam - hence the name Hanoi) has a large room with three towers surrounded by 64 golden disks. These disks are continuously moved by priests in the temple. According to a prophecy, when the last move of the puzzle is completed the world will end. These priests acting on the prophecy, follow the immutable rule by lord Brahma of moving these disks one at a time. Hence this puzzle is often called Tower of Brahma puzzle.
+Tower of Hanoi is one of the classic problems to look at if you want to learn recursion. It is good to understand how recursive solutions are arrived at and how parameters for this recursion are implemented
